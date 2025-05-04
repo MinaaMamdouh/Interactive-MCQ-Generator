@@ -32,11 +32,18 @@ Whether you're using slides, documents, articles, or plain text — it's designe
 
 ---
 
-## License  
-This project is licensed under the MIT License – free to use and modify with proper credit.
+## Prompt License & Usage Terms
 
-© All rights reserved to **Mina Mamdouh**  
-If you use or adapt this prompt, please mention the original author.
+This project is licensed under the **MIT License** – free to use and modify **with proper credit**.
+
+---
+
+© All rights reserved to **Mina Mamdouh**
+
+If you use or adapt this prompt, please **credit the original author**.
+
+> ⚠️ This prompt is **not allowed to be modified without attribution**.  
+> To request the **full editable version**, please contact me via [LinkedIn](https://www.linkedin.com/in/minamamdouh-).
 
 ---
 
